@@ -46,4 +46,3 @@ Exposes the pod to the outside world by opening a port (31686) on the VM's netwo
 | Ubuntu VM | 192.168.75.135 |
 | NodePort | :31686 |
 | Cluster-IP (internal only) | 10.43.x.x |
-| Pod IP (internal only) | 10.42.x.x |
