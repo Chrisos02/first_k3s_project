@@ -67,14 +67,3 @@ Ubuntu Server VM (VMware)
        |
 nginx Pod (container :80)
 ```
-
-## Skjermbilder
-
-### kubectl get nodes
-![kubectl get nodes](bilder/get-nodes.png)
-
-### kubectl get pods
-![kubectl get pods](bilder/get-pods.png)
-
-### nginx i nettleseren
-![nginx webserver](bilder/nginx-browser.png)
