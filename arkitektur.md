@@ -44,6 +44,5 @@ Eksponerer poden til omverdenen ved å åpne en port (31686) på VM-ens nettverk
 | Windows Host (nettleser) | når VM via 192.168.75.135 |
 | VMware NAT-nettverk | bro mellom host og VM |
 | Ubuntu VM | 192.168.75.135 |
-| NodePort | :31686 |
+| NodePort | 31686 |
 | Cluster-IP (kun intern) | 10.43.x.x |
-| Pod IP (kun intern) | 10.42.x.x |
